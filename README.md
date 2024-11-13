@@ -5,11 +5,11 @@ This analysis of January 2023 to September 2024 sales shows a mid-2024 dip with 
 
 ## overview:
 
-* The dataset includes details about customer wise and Product-wise analysis.
-  ### Toola used: Excel, PowerBI
+* The dataset includes details about customer wise and Product wise analysis.
+  ### Tools used: Excel, PowerBI
 
   ## Project Process
-* Data Source: Data taken from Middle East Sales.xlsx file.
+* Data Source: Data taken from Middle East Sales.xlsb file.
 * Data Analysis: Data was analyzed in the Middle East Visualization.pbix Power BI file.
 * Dashboard: Insights about product details and customer profiles were provided through data visualized in Power BI.
 
